@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-                    
-=======
-      Django Project and File Structure
-
-
->>>>>>> 2b7f49531ed70fa14abace0eb47e9040b06c6131
 # Django Tutorial 
 
 ## 🚀 Getting Started
