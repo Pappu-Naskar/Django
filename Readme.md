@@ -91,17 +91,7 @@ deactivate
 
 **Main file of project settings.py file:** Hear you see configeration of Django .(for example: BASE_DIR ,SECRET_KEY , DEBUG = True : YOU SHOW WEB PAGE) and many more conf settings .
 
-**Url.py:** This file is routing file.You visit many link pages.
 
-**Next Create views.py file in Project folder.**
-
-**Views.py** : This file define all views.This file deal business logic.
-
-
-## Step 5
-
-# Templates in Django
-**Django flow Structure**
 
 
 
