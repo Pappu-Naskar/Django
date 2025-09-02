@@ -1,4 +1,4 @@
-                    Django Project and File Structure
+      Django Project and File Structure
 
 
 # Django Tutorial 
@@ -38,7 +38,7 @@ python -m venv .venv
        ```bash
        source .venv/Scripts/activate
        ```
-       - *For Linex/mac:
+       - For Linex/mac:
 
        ```bash
        source .venv/bin/activate
@@ -90,6 +90,20 @@ deactivate
 **Know about pycache folder:** When you have multiple moduls in python then its create this folder .
 
 **Main file of project settings.py file:** Hear you see configeration of Django .(for example: BASE_DIR ,SECRET_KEY , DEBUG = True : YOU SHOW WEB PAGE) and many more conf settings .
+
+**Url.py:** This file is routing file.You visit many link pages.
+
+**Next Create views.py file in Project folder.**
+
+**Views.py** : This file define all views.This file deal business logic.
+
+
+## Step 5
+
+# Templates in Django
+**Django flow Structure**
+
+
 
 
 
