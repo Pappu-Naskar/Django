@@ -1,4 +1,10 @@
+<<<<<<< HEAD
                     
+=======
+      Django Project and File Structure
+
+
+>>>>>>> 2b7f49531ed70fa14abace0eb47e9040b06c6131
 # Django Tutorial 
 
 ## 🚀 Getting Started
@@ -38,7 +44,7 @@ python -m venv .venv
        ```bash
        source .venv/Scripts/activate
        ```
-       - *For Linex/mac:
+       - For Linex/mac:
 
        ```bash
        source .venv/bin/activate
@@ -566,6 +572,10 @@ pip install 'django-tailwind[reload]'
 
 
  
+
+
+
+
 
 
 
